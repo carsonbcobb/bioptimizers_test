@@ -13,16 +13,16 @@ const Header = () => (
           <a className="header__list--link" href="https://www.google.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGoogle}/></a>
           </li>
         <li>
-          <a className="header__list--link" href="https://www.google.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub}/></a>
+          <a className="header__list--link" href="https://github.com/carsonbcobb/bioptimizers_test" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub}/></a>
           </li>
         <li>
-          <a className="header__list--link" href="https://www.google.com" target="_blank" rel="noopener noreferrer">Portfolio</a>
+          <a className="header__list--link" href="https://carson-cobb.com" target="_blank" rel="noopener noreferrer">Portfolio</a>
           </li>
         <li>
-          <a className="header__list--link" href="https://www.google.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin}/></a>
+          <a className="header__list--link" href="https://www.linkedin.com/in/carsoncobb/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin}/></a>
           </li>
         <li>
-          <a className="header__list--link" href="https://www.google.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebookF}/></a>
+          <a className="header__list--link" href="https://www.facebook.com" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebookF}/></a>
           </li>
     </ul>
   </div>
