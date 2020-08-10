@@ -1,0 +1,20 @@
+
+.footer {
+  background-color: lightcoral;
+  border-top: 3px solid black;
+}
+
+.footer__content {
+  margin: 25px;
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer__calendar {
+background: #FFFAF1;
+padding: 15px;
+text-align: center;
+}

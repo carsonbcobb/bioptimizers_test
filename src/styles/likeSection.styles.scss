@@ -1,0 +1,22 @@
+
+
+.likeSection {
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+  padding: 25px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.likeSection__photo {
+  max-width: 90%;
+  box-shadow: 2px 3px 3px;
+
+  img {
+    width: 250px;
+  }
+}
+

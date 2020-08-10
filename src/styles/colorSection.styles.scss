@@ -1,0 +1,18 @@
+
+
+.colorSection {
+  height: 40vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+  padding: 25px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+.colorSection__colorbox {
+  width: 250px;
+  height: 250px;
+}

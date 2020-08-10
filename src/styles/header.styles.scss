@@ -1,0 +1,19 @@
+.header {
+  height: 25vh;
+  width: 100vw;
+  background-color: lightcoral;
+}
+.header__list {
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style: none;
+}
+
+.header__list--link {
+  text-decoration: none;
+  color: #FFFAF1;
+  font-size: 2.75rem;
+}
